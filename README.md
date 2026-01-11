@@ -1,5 +1,19 @@
 # Cloud Monitoring and Alerts - AWS CloudWatch
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: HARSH RANA
+
+*INTERN ID*: CTIS1777
+
+*DOMAIN*: CLOUD COMPUTING
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+##TASK DESCRIPTION
+
 This project sets up comprehensive monitoring for cloud-based applications using AWS CloudWatch, including configured alerts and a dashboard showcasing key metrics.
 
 ## 🏗️ Architecture
