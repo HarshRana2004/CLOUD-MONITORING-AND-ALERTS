@@ -1,4 +1,4 @@
-# Cloud Monitoring and Alerts - AWS CloudWatch
+# Cloud Monitoring and Alerts
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
