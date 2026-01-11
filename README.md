@@ -71,6 +71,12 @@ terraform apply
 3. **Error Rate** (>10 5xx errors in 5 minutes)
 4. **Application Log Errors** (>5 ERROR logs in 5 minutes)
 
+<img width="1917" height="927" alt="Image" src="https://github.com/user-attachments/assets/a4f9fa4f-6eb0-472c-ad9e-908f60d7fd4d" />
+<br>
+<img width="1916" height="940" alt="Image" src="https://github.com/user-attachments/assets/befe265f-e1b6-4998-b6f4-0f56abf1eb3c" />
+<br>
+<img width="1914" height="933" alt="Image" src="https://github.com/user-attachments/assets/d85a122d-9a85-4955-90be-b94697e23edb" />
+
 ### Alert Notifications
 - Email notifications via SNS
 - Configurable recipient addresses
